@@ -13,8 +13,8 @@ null,
 {"id":11,"expanded":false,"name":"Sala do Laboratório","order":9,"parentId":1,"scrollX":1228.5,"scrollY":691.5},
 {"id":12,"expanded":false,"name":"Porto Alegre","order":10,"parentId":1,"scrollX":1216.5,"scrollY":691.5},
 {"id":13,"expanded":true,"name":"Cidade inicial- MG","order":11,"parentId":1,"scrollX":1081.7777777777778,"scrollY":1528.888888888889},
-{"id":14,"expanded":false,"name":"CasaVictor","order":13,"parentId":13,"scrollX":720.8888888888889,"scrollY":417.77777777777777},
-{"id":15,"expanded":false,"name":"Abertura do jogo","order":12,"parentId":13,"scrollX":728,"scrollY":398.22222222222223},
-{"id":16,"expanded":false,"name":"Hotel do rei","order":14,"parentId":13,"scrollX":720.8888888888889,"scrollY":453.3333333333333},
+{"id":14,"expanded":false,"name":"CasaVictor","order":13,"parentId":13,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":15,"expanded":false,"name":"Abertura do jogo","order":12,"parentId":13,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":16,"expanded":false,"name":"Hotel do rei","order":14,"parentId":13,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":17,"expanded":false,"name":"Space Station","order":17,"parentId":7,"scrollX":816,"scrollY":507.2}
 ]
