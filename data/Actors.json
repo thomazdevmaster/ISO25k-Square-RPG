@@ -1,5 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"VictorFight","characterIndex":0,"characterName":"VictorWalk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Victor","traits":[],"initialLevel":1,"maxLevel":20,"name":"Vitor","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"Professor andando","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Professor","traits":[],"initialLevel":99,"maxLevel":99,"name":"Professor Lucio","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"VictorFight","characterIndex":0,"characterName":"VictorWalk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Victor","traits":[],"initialLevel":1,"maxLevel":20,"name":"Vitor","nickname":"","note":"","profile":""}
 ]
