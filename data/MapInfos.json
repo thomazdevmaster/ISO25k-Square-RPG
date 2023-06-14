@@ -1,20 +1,20 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Brasil","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Brasil","order":1,"parentId":0,"scrollX":1638,"scrollY":922},
 null,
 {"id":3,"expanded":false,"name":"santaCatarina","order":2,"parentId":1,"scrollX":1390.2857142857142,"scrollY":824.5714285714286},
 {"id":4,"expanded":false,"name":"Maceió","order":3,"parentId":1,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":5,"expanded":true,"name":"CongressoEvento","order":12,"parentId":1,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":6,"expanded":false,"name":"Cidade Subterrânea","order":4,"parentId":1,"scrollX":1390.2857142857142,"scrollY":889.7142857142857},
 {"id":7,"expanded":true,"name":"SBQS","order":13,"parentId":1,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":8,"expanded":false,"name":"Porto","order":5,"parentId":1,"scrollX":1228.5,"scrollY":691.5},
+{"id":8,"expanded":false,"name":"Porto","order":5,"parentId":1,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":9,"expanded":false,"name":"Subúrbios","order":6,"parentId":1,"scrollX":1390.2857142857142,"scrollY":1369.7142857142856},
-null,
-null,
-{"id":12,"expanded":false,"name":"Porto Alegre","order":7,"parentId":1,"scrollX":1390.2857142857142,"scrollY":1129.7142857142856},
+{"id":10,"expanded":false,"name":"School","order":15,"parentId":0,"scrollX":1622,"scrollY":922},
+{"id":11,"expanded":false,"name":"Shop District","order":16,"parentId":0,"scrollX":1216.5,"scrollY":700.5},
+{"id":12,"expanded":false,"name":"Porto Alegre","order":7,"parentId":1,"scrollX":1390.2857142857142,"scrollY":821.1428571428571},
 {"id":13,"expanded":true,"name":"Cidade inicial- MG","order":8,"parentId":1,"scrollX":1082,"scrollY":1512},
 {"id":14,"expanded":false,"name":"CasaVictor","order":10,"parentId":13,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":15,"expanded":false,"name":"Abertura do jogo","order":9,"parentId":13,"scrollX":781,"scrollY":416},
 {"id":16,"expanded":false,"name":"Hotel do rei","order":11,"parentId":13,"scrollX":773,"scrollY":416},
-{"id":17,"expanded":false,"name":"Sala de conferencia","order":14,"parentId":7,"scrollX":973.1999999999999,"scrollY":661.1999999999999}
+{"id":17,"expanded":false,"name":"Sala de conferencia","order":14,"parentId":7,"scrollX":973.1999999999999,"scrollY":651.6}
 ]
