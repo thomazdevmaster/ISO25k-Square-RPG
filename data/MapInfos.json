@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Brasil","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Brasil","order":1,"parentId":0,"scrollX":1041.3333333333333,"scrollY":554.6666666666666},
 {"id":2,"expanded":false,"name":"Cidade Pequena","order":2,"parentId":1,"scrollX":1030.6666666666667,"scrollY":800},
 {"id":3,"expanded":false,"name":"Cidade Grande","order":3,"parentId":1,"scrollX":1030.6666666666667,"scrollY":1228},
 {"id":4,"expanded":false,"name":"Maceió","order":4,"parentId":1,"scrollX":1081.3333333333333,"scrollY":597.3333333333334},
@@ -19,5 +19,6 @@ null,
 {"id":17,"expanded":false,"name":"Sala de conferencia","order":17,"parentId":7,"scrollX":1030,"scrollY":816},
 {"id":18,"expanded":false,"name":"Sala do Laboratório","order":19,"parentId":19,"scrollX":1041.3333333333333,"scrollY":554.6666666666666},
 {"id":19,"expanded":true,"name":"CongressoEvento2","order":18,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":20,"expanded":false,"name":"CongressoEvento3","order":20,"parentId":1,"scrollX":832,"scrollY":640}
+{"id":20,"expanded":true,"name":"CongressoEvento3","order":20,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":21,"expanded":false,"name":"Congresso 3","order":21,"parentId":20,"scrollX":832,"scrollY":640}
 ]
