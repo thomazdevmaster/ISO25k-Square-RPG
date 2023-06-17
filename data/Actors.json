@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"VictorFight","characterIndex":0,"characterName":"VictorWalk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Victor","traits":[],"initialLevel":1,"maxLevel":20,"name":"Vitor","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"VictorFight","characterIndex":0,"characterName":"VictorWalk","classId":1,"equips":[1,1,0,3,0],"faceIndex":0,"faceName":"Victor","traits":[],"initialLevel":1,"maxLevel":20,"name":"Vitor","nickname":"","note":"","profile":""}
 ]
