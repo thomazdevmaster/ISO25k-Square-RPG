@@ -5,8 +5,9 @@ function gerarNumeroUnico(min, max) {
   var numero;
   do {
     numero = Math.floor(Math.random() * (max - min + 1)) + min;
-  } while (numerosGerados.includes(numero));
-  
+  } while (numerosGerados.includes(numero) || 
+          (numero == 2 && numerosGerados.length == 0)
+  );
   numerosGerados.push(numero);
   console.log(numerosGerados)
   return numero;
