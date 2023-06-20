@@ -13,9 +13,9 @@ null,
 {"id":11,"expanded":false,"name":"MAP5_Manaus","order":13,"parentId":1,"scrollX":973.1999999999999,"scrollY":838.8},
 null,
 {"id":13,"expanded":true,"name":"MAP1_CidadeInicial","order":2,"parentId":1,"scrollX":1030.909090909091,"scrollY":581.4545454545455},
-{"id":14,"expanded":false,"name":"CasaVictor","order":4,"parentId":13,"scrollX":852,"scrollY":453.8181818181818},
+{"id":14,"expanded":false,"name":"CasaVictor","order":4,"parentId":13,"scrollX":1092,"scrollY":597.3333333333334},
 {"id":15,"expanded":false,"name":"Abertura do jogo","order":3,"parentId":13,"scrollX":728,"scrollY":409.77777777777777},
-{"id":16,"expanded":true,"name":"Hotel do rei","order":5,"parentId":13,"scrollX":893.4545454545455,"scrollY":502.90909090909093},
-{"id":17,"expanded":false,"name":"SBQS_Map","order":8,"parentId":7,"scrollX":973.1999999999999,"scrollY":896.4},
+{"id":16,"expanded":true,"name":"Hotel do rei","order":5,"parentId":13,"scrollX":1092,"scrollY":597.3333333333334},
+{"id":17,"expanded":false,"name":"SBQS_Map","order":8,"parentId":7,"scrollX":816,"scrollY":800},
 {"id":18,"expanded":false,"name":"salaCursoUFAM","order":15,"parentId":11,"scrollX":832,"scrollY":640}
 ]
